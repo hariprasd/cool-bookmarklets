@@ -26,6 +26,7 @@ javascript:const input = prompt("Enter minutes: ");window.location="https://www.
 ```
 >Thank Google for Timer component & Thank me for making the process easier <br>
 
+[Procedure](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) is given above <br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <br>
@@ -37,5 +38,5 @@ Sometimes these Personalisations goes out of hand and shows unwanted Highlights 
 ```
 javascript:(function(){window.location=document.URL+'?pws=0%27%20})()
 ```
-
+[Procedure](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) is given above <br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
