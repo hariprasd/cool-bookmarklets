@@ -7,10 +7,10 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 
 <details><summary>Procedure to Save a Bookmarklet</summary>
  <br>
-1. Copy the above code and Goto the Bookmark section of your browser<br>
-2. Create a bookmark with this as the URL (you should have known how to do it :)<br>
-3. Give whatever the name you want & Save it
-4. Booomm Done, That's All folks 🦾<br>
+1. Copy the code snippet and Goto the Bookmark section of your browser<br>
+2. Create a bookmark with this code as the URL (you should have known how to do it :)<br>
+3. Give whatever the name you want & Save it <br>
+4. Booom Done, That's All folks 🦾<br>
 5. Click and check the functionality of the code, It should work 100% <br>
 </details>
 <br>
