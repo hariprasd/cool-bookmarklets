@@ -24,7 +24,8 @@ This works with any browser with Javascript support, Like Chrome, Firefox, Edge,
 ```
 javascript:const input = prompt("Enter minutes: ");window.location="https://www.google.com/search?q=set+timer+for+%22+%20input%20+%22+minutes%22
 ```
->Thank Google for Timer component & Thank me for making the process easier<br>
+>Thank Google for Timer component & Thank me for making the process easier <br>
+
 Still having doubts - [Contact Me](https://wa.me/919345160259)
 
 <br>
