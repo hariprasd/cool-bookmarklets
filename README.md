@@ -4,7 +4,7 @@
 ## 1. EasyTimer
 This works with any browser with Javascript support, Like Chrome, Firefox, Edge, Brave etc...
 
-### Cool Js Code:
+### Js Code Snippet :
 ```
 javascript:const input = prompt("Enter minutes: ");window.location="https://www.google.com/search?q=set+timer+for+%22+%20input%20+%22+minutes%22
 ```
