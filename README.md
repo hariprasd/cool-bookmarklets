@@ -26,7 +26,7 @@ javascript:const input = prompt("Enter minutes: ");window.location="https://www.
 ```
 >Thank Google for Timer component & Thank me for making the process easier <br>
 
-Still having doubts - [Contact Me](https://web.whatsapp.com/send?phone=919345160259&text=Doubt-EasyTimer)
+Still having doubts - [Contact Me](https://wa.me/send?phone=919345160259&text=Doubt-EasyTimer)
 
 <br>
 
@@ -38,4 +38,4 @@ Sometimes these Personalisations goes out of hand and shows unwanted Highlights 
 javascript:(function(){window.location=document.URL+'?pws=0%27%20})()
 ```
 
-Still having doubts - [Contact Me](https://web.whatsapp.com/send?phone=919345160259&text=Doubt-PWS)
+Still having doubts - [Contact Me](https://wa.me/send?phone=919345160259&text=Doubt-PWS)
