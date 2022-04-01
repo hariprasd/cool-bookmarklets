@@ -10,7 +10,7 @@ javascript:const input = prompt("Enter minutes: ");window.location="https://www.
 ```
 
 - Copy this code and Goto the Bookmark section of your browser
-- Crate a bookmark with this as the URL (you should have known how to do it:)
+- Create a bookmark with this as the URL (you should have known how to do it:)
 - Give whatever the name you want & Save it
  
 ### Booomm Done, That's All folks 🦾
