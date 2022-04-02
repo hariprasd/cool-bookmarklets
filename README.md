@@ -40,3 +40,49 @@ javascript:(function(){window.location=document.URL+'?pws=0%27%20})()
 ```
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<br>
+
+### 3. Colour Picker by Google 🌈
+You know? Google has a colour picking tool which can be used to get colour codes in many formats by eyedropping, Access this feature in a single click
+
+#### Code Snippet :
+```
+javascript:(function(){window.location='https://www.google.com/search?q=color+picker'})()
+```
+
+>Thank Google for Color Picking Feature & Thank me for making the process easier <br>
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<br>
+
+### 4. Calculator by Google ➗
+This is a great feature made by Google, we can use scientific / general calculator on web without getting into any sites, Access this feature in a single click
+
+#### Code Snippet :
+```
+javascript:(function(){window.location='https://www.google.com/search?q=calculator'})()
+```
+
+>Thank Google for Calculator Component & Thank me for making the process easier <br>
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<br>
+
+### 5. Unit Conventor by Google ※
+This is also a great feature made by Google, we can convert Currencies, Weight, Length in other units on web without getting into any sites, Access this feature in a single click
+
+#### Code Snippet :
+```
+javascript:(function(){window.location='https://www.google.com/search?q=Unit%20converter'})()
+```
+
+>Thank Google for Unit Convertor Component & Thank me for making the process easier <br>
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
