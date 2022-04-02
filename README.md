@@ -13,8 +13,15 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 4. Booom Done, That's All folks 🦾<br>
 5. Click and check the functionality of the code, It should work 100% <br>
 </details>
-<br>
 
+<details><summary>Want to collaborate in this Repo?</summary>
+ <br>
+- If you are aware of Bookmarklet creation and Javascript programmer, You can join me <br>
+- Send me the Code Snippet & Description in the same format of my README.md file privately <br>
+- The Bookmarklet will be verified and published with credits & your GitHub profile link
+- Waiting 
+</details>
+<br>
 ## List of Bookmarklets 👇
 
 ### 1. EasyTimer⌚
