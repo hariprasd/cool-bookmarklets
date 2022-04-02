@@ -1,4 +1,4 @@
-# Bookmarklets by [Hari Prasad](https://github.com/hariprasd)
+# Bookmarklets
 
 <details><summary>What is a Bookmarklet?</summary>
   <br>
@@ -22,6 +22,7 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 - Waiting 
 </details>
 <br>
+
 ## List of Bookmarklets 👇
 
 ### 1. EasyTimer⌚
@@ -36,6 +37,7 @@ javascript:const input = prompt("Enter minutes: ");window.location="https://www.
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
+<hr style="border:2px solid gray"> </hr>
 <br>
 
 ### 2. Turn Off Personalised Web Search results 
@@ -48,6 +50,7 @@ javascript:(function(){window.location=document.URL+'?pws=0%27%20})()
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
+<hr style="border:2px solid gray"> </hr>
 <br>
 
 ### 3. Colour Picker by Google 🌈
@@ -63,6 +66,7 @@ javascript:(function(){window.location='https://www.google.com/search?q=color+pi
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
+<hr style="border:2px solid gray"> </hr>
 <br>
 
 ### 4. Calculator by Google ➗
@@ -78,6 +82,7 @@ javascript:(function(){window.location='https://www.google.com/search?q=calculat
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
+<hr style="border:2px solid gray"> </hr>
 <br>
 
 ### 5. Unit Conventor by Google ※
@@ -92,10 +97,11 @@ javascript:(function(){window.location='https://www.google.com/search?q=Unit%20c
 
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
 <br>
 
-
-### Text Anchors ⚓ 
+### 6. Text Anchors ⚓ 
 A hidden feature used by Search Engine to direct the users to a specific part of the Page which is related to their query, While using this feature, You should be ins the webpage & the text to be anchored should be copied before clicking it
 #### Code Snippet :
 ```
@@ -105,5 +111,6 @@ coming soon
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
+<hr style="border:2px solid gray"> </hr>
 <br>
 
