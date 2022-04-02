@@ -85,4 +85,18 @@ javascript:(function(){window.location='https://www.google.com/search?q=Unit%20c
 
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
+<br>
+
+
+### Text Anchors ⚓ 
+A hidden feature used by Search Engine to direct the users to a specific part of the Page which is related to their query, While using this feature, You should be ins the webpage & the text to be anchored should be copied before clicking it
+#### Code Snippet :
+```
+coming soon
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<br>
 
