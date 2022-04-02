@@ -102,10 +102,11 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <br>
 
 ### 6. Text Anchors ⚓ 
-A hidden feature used by Search Engine to direct the users to a specific part of the Page which is related to their query, While using this feature, You should be ins the webpage & the text to be anchored should be copied before clicking it
+A hidden feature used by Search Engine to direct the users to a specific part of the Page which is related to their query, While using this feature, You should be ins the webpage & the text to be anchored should be copied before clicking it <br>
+This will be useful when you need to hyperlink an exact part of the website to your friend, After clicking the bookmarklet, you can copy & share the new link to friend, It will highlight the text in the page which was provided by you
 #### Code Snippet :
 ```
-coming soon
+javascript:const input = prompt("Enter the text to be anchored (maximum 10 words):  ");(function(){window.location=document.URL+'#:~:text='+input})()
 ```
 
 [**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
