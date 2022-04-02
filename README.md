@@ -115,3 +115,17 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <hr style="border:2px solid gray"> </hr>
 <br>
 
+### 7. Enable Right Click 😉
+Some websites may block you from Right Click & using Context Menu aka Right click menu, But we can enable it again by using this simple Bookmarklet
+#### Code Snippet :
+```
+javascript:(function(){var d=document;d.onmousedown=null;d.onmouseup=null;d.oncontextmenu=null})()
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
+
