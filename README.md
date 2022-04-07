@@ -128,4 +128,18 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <hr style="border:2px solid gray"> </hr>
 <br>
 
+### 8. Birthday Moon Phase 🌒
+If you are eager to see how the Moon looked when you were born, Check this out<br>
+Credits:[Lunaf](https://lunaf.com/lunar-calendar/)
+#### Code Snippet :
+```
+javascript:const input = prompt("Enter date(YYYY/MM/DD only works):  ");(function(){window.location='https://lunaf.com/lunar-calendar/'+input})()
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
 
