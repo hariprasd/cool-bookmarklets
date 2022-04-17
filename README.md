@@ -16,12 +16,12 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 
 <details><summary>Want to collaborate in this Repo?</summary>
  <br>
-- If you are aware of Bookmarklet creation and Javascript programmer, You can join me <br>
-- Send me the Code Snippet & Description in the same format of my README.md file privately <br>
-- The Bookmarklet will be verified and published with credits & your GitHub profile link
-- Waiting 
+1. If you are aware of Bookmarklet creation and Javascript programmer, You can join me <br>
+2. Send me the Code Snippet & Description in the same format of my README.md file privately <br>
+3. The Bookmarklet will be verified and published with credits & your GitHub profile link
 </details>
 <br>
+
 
 ## List of Bookmarklets 👇
 
