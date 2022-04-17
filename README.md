@@ -34,7 +34,7 @@ javascript:const input = prompt("Enter minutes: ");window.location="https://www.
 ```
 >Thank Google for Timer component & Thank me for making the process easier <br>
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -47,7 +47,7 @@ Sometimes these Personalisations goes out of hand and shows unwanted Highlights 
 ```
 javascript:(function(){window.location=document.URL+'?pws=0%27%20})()
 ```
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -63,7 +63,7 @@ javascript:(function(){window.location='https://www.google.com/search?q=color+pi
 
 >Thank Google for Color Picking Feature & Thank me for making the process easier <br>
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -79,7 +79,7 @@ javascript:(function(){window.location='https://www.google.com/search?q=calculat
 
 >Thank Google for Calculator Component & Thank me for making the process easier <br>
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -95,7 +95,7 @@ javascript:(function(){window.location='https://www.google.com/search?q=Unit%20c
 
 >Thank Google for Unit Convertor Component & Thank me for making the process easier <br>
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -109,7 +109,7 @@ This will be useful when you need to hyperlink an exact part of the website to y
 javascript:const input = prompt("Enter the text to be anchored (maximum 10 words):  ");(function(){window.location=document.URL+'#:~:text='+input})()
 ```
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -122,7 +122,7 @@ Some websites may block you from Right Click & using Context Menu aka Right clic
 javascript:(function(){var d=document;d.onmousedown=null;d.onmouseup=null;d.oncontextmenu=null})()
 ```
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -139,7 +139,7 @@ javascript:const input = prompt("Enter date(YYYY/MM/DD only works):  ");(functio
 javascript:const input = prompt("Enter date(eg: 3March1978) without spaces:  ");(function(){window.location='https://phasesmoon.com/moonday'+input+'.html'})()
 ```
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
@@ -164,7 +164,7 @@ javascript:const input = prompt("Enter the Query : ");window.location='https://w
 javascript:const input = prompt("Enter the Query : ");window.location='https://www.google.com/search?q='+input+'tbm=vid'
 ```
 
-[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/blob/main/README.md#bookmarklets-by-hari-prasad) 👈<br>
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets/edit/main/README.md#bookmarklets) 👈<br>
 Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
