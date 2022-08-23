@@ -1,5 +1,7 @@
 # Bookmarklets
-by [@DevignX](http://devignx.herokuapp.com/)
+by [@DevignX](http://devignx.herokuapp.com/) - we build Devign Brands!
+
+<br>
 <details><summary>What is a Bookmarklet?</summary>
   <br>
 A bookmarklet is a bookmark stored in a web browser that contains JavaScript commands that add new features to the browser. They are stored as the URL of a bookmark in a web browser or as a hyperlink on a web page. Bookmarklets are usually small snippets of JavaScript executed when user clicks on them - Wikipedia 
@@ -16,9 +18,8 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 
 <details><summary>Want to collaborate in this Repo?</summary>
  <br>
-1. If you are aware of Bookmarklet creation and Javascript programmer, You can join me <br>
-2. Send me the Code Snippet & Description in the same format of my README.md file privately <br>
-3. The Bookmarklet will be verified and published with credits & your GitHub profile link
+1. Fork and commit in your repo <br>
+2. Changes will be reviewed and accepted based on the content 
 </details>
 <br>
 
