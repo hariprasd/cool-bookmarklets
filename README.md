@@ -170,4 +170,59 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <hr style="border:2px solid gray"> </hr>
 <br>
 
+### 10. Developers' Search (YouCode)⚡
+
+#### Code Snippet for Direct Getting results tailored for a Dev, like Code snippets, Tutorials, Articles etc.. :
+```
+javascript: const input = prompt("Enter Query: ");url="https://you.com/search?q=%22+input;window.open(url,%20%27_blank%27).focus();
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets#bookmarklets) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
+### 11. Tech Stack Lookup (buitwith) ⚡
+
+#### Code Snippet for Looking up the tech Stack for any website :
+```
+javascript:url="https://builtwith.com/?%22+document.URL;window.open(url,%20%27_blank%27).focus();
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets#bookmarklets) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
+### 12. HTML Preview by Github⚡
+Note: You have to upload HTML files to github and currently at the page where HTML file is located.
+
+#### Code Snippet for previewing HTML pages directly from Github :
+```
+javascript:url="https://htmlpreview.github.io/?%22+document.URL;window.open(url,%20%27_blank%27).focus();
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets#bookmarklets) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
+
+### 13. Share current Tab's URL to Whatsapp⚡
+
+#### Code Snippet :
+```
+javascript:url="https://wa.me/?text=%22+document.URL;window.open(url,%20%27_blank%27).focus();
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets#bookmarklets) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
+
 
