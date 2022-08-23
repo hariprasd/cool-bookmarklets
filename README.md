@@ -1,5 +1,5 @@
 # Bookmarklets
-
+by [@DevignX](http://devignx.herokuapp.com/)
 <details><summary>What is a Bookmarklet?</summary>
   <br>
 A bookmarklet is a bookmark stored in a web browser that contains JavaScript commands that add new features to the browser. They are stored as the URL of a bookmark in a web browser or as a hyperlink on a web page. Bookmarklets are usually small snippets of JavaScript executed when user clicks on them - Wikipedia 
@@ -30,7 +30,7 @@ This works with any browser with Javascript support, Like Chrome, Firefox, Edge,
 
 #### Code Snippet :
 ```
-javascript:const input = prompt("Enter minutes: ");window.location="https://www.google.com/search?q=set+timer+for+%22+%20input%20+%22+minutes%22
+javascript: const input = prompt("Enter minutes: ");url="https://www.google.com/search?q=set+timer+for+%22+%20input%20+%22+minutes%22;window.open(url,%20%27_blank%27).focus();
 ```
 >Thank Google for Timer component & Thank me for making the process easier <br>
 
@@ -102,7 +102,7 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <br>
 
 ### 6. Text Anchors ⚓ 
-A hidden feature used by Search Engine to direct the users to a specific part of the Page which is related to their query, While using this feature, You should be ins the webpage & the text to be anchored should be copied before clicking it <br>
+A hidden feature used by Search Engine to highlight & direct the users to a specific part of the Page which is related to their query, While using this feature, You should be at the webpage & the text to be anchored should be copied before clicking it <br>
 This will be useful when you need to hyperlink an exact part of the website to your friend, After clicking the bookmarklet, you can copy & share the new link to friend, It will highlight the text in the page which was provided by you
 #### Code Snippet :
 ```
