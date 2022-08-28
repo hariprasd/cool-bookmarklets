@@ -184,7 +184,7 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <hr style="border:2px solid gray"> </hr>
 <br>
 
-### 11. Tech Stack Lookup (buitwith) ⚡
+### 11. Tech Stack Lookup (builtwith) ⚡
 
 #### Code Snippet for Looking up the tech Stack for any website :
 ```
@@ -197,7 +197,7 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <hr style="border:2px solid gray"> </hr>
 <br>
 
-### 12. HTML Preview by Github⚡
+### 12. HTML Preview by [Github](https://htmlpreview.github.io/)⚡
 Note: You have to upload HTML files to github and currently at the page where HTML file is located.
 
 #### Code Snippet for previewing HTML pages directly from Github :
@@ -224,6 +224,3 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
 <br>
-
-
-
