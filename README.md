@@ -1,5 +1,4 @@
 # Bookmarklets
-by [@DevignX](http://devignx.herokuapp.com/) - we build Devign Brands!
 
 <br>
 <details><summary>What is a Bookmarklet?</summary>
