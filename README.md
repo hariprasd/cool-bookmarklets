@@ -18,7 +18,7 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 <details><summary>Want to collaborate in this Repo?</summary>
  <br>
 1. Fork and commit in your repo <br>
-2. Changes will be reviewed and accepted based on the content 
+2. Changes will be reviewed and accepted based on the effectiveness of the content 
 </details>
 <br>
 
