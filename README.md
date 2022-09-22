@@ -210,8 +210,21 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 <hr style="border:2px solid gray"> </hr>
 <br>
 
+### 13. Download all images from any site in a single click
 
-### 13. Share current Tab's URL to Whatsapp⚡
+#### Code Snippet:
+```
+javascript:;(function() {var images = [].slice.call(document.querySelectorAll('img'));try {images.forEach(function(img){downloadImage(img)})} catch (e) {alert('Download failed.');console.log('Download failed.', e)}function downloadImage(img) {var link = document.createElement('a');link.setAttribute('href', img.src);link.setAttribute('download', '');link.click()}}).call(window);
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets#bookmarklets) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
+
+### 14. Share current Tab's URL to Whatsapp⚡
 
 #### Code Snippet :
 ```
