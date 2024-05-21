@@ -236,3 +236,29 @@ Still having doubts - [Contact Me](https://wa.me/919345160259/)
 
 <hr style="border:2px solid gray"> </hr>
 <br>
+
+### 15. Search for a specific filetype 🔎
+
+#### Code Snippet :
+```
+javascript:const input = prompt("Enter Query : "); const type = prompt("Extension type"); window.location='https://www.google.com/search?q=%27+input+%27%20ext%3A%27+type
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets#bookmarklets) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
+
+### 16. Find a free vector icon superfast (using Iconfinder) ✨
+
+#### Code Snippet :
+```
+javascript:const input = prompt("Search in IconFinder : ");(function(){window.location='https://www.iconfinder.com/search?q=%27+input+%27&price=free%27})()
+```
+
+[**Procedure**](https://github.com/hariprasd/cool-bookmarklets#bookmarklets) 👈<br>
+Still having doubts - [Contact Me](https://wa.me/919345160259/)
+
+<hr style="border:2px solid gray"> </hr>
+<br>
