@@ -20,8 +20,9 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 1. Fork and commit in your repo <br>
 2. Changes will be reviewed and accepted based on the effectiveness of the content 
 </details>
+<details><summary>Geneate Bookmarklets here</summary>
+<a href='https://caiorss.github.io/bookmarklet-maker/'>https://caiorss.github.io/bookmarklet-maker/</a> <br>
 <br>
-
 
 ## List of Bookmarklets 👇
 
