@@ -22,6 +22,7 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 </details>
 <details><summary>Geneate Bookmarklets here</summary>
 <a href='https://caiorss.github.io/bookmarklet-maker/'>https://caiorss.github.io/bookmarklet-maker/</a> <br>
+  </details>
 <br>
 
 ## List of Bookmarklets 👇
