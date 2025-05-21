@@ -1,0 +1,162 @@
+[
+  {
+    "id": "easytimer",
+    "title": "EasyTimer⌚",
+    "description": "This works with any browser with Javascript support, Like Chrome, Firefox, Edge, Brave etc...",
+    "code_snippets": [
+      "javascript: const input = prompt(\"Enter minutes: \");url=\"https://www.google.com/search?q=set+timer+for+%22+%20input%20+%22+minutes%22;window.open(url,%20%27_blank%27).focus();"
+    ]
+  },
+  {
+    "id": "turn-off-personalised-web-search-results",
+    "title": "Turn Off Personalised Web Search results",
+    "description": "Sometimes these Personalisations goes out of hand and shows unwanted Highlights in the webpages,That might be annoying for some guys like me, This Feature turns off the PWS feature in a single click",
+    "code_snippets": [
+      "javascript:(function(){window.location=document.URL+'?pws=0%27%20})()"
+    ]
+  },
+  {
+    "id": "colour-picker-by-google",
+    "title": "Colour Picker by Google 🌈",
+    "description": "You know? Google has a colour picking tool which can be used to get colour codes in many formats by eyedropping, Access this feature in a single click",
+    "code_snippets": [
+      "javascript:(function(){window.location='https://www.google.com/search?q=color+picker'})()"
+    ]
+  },
+  {
+    "id": "calculator-by-google",
+    "title": "Calculator by Google ➗",
+    "description": "This is a great feature made by Google, we can use scientific / general calculator on web without getting into any sites, Access this feature in a single click",
+    "code_snippets": [
+      "javascript:(function(){window.location='https://www.google.com/search?q=calculator'})()"
+    ]
+  },
+  {
+    "id": "unit-conventor-by-google",
+    "title": "Unit Conventor by Google ※",
+    "description": "This is also a great feature made by Google, we can convert Currencies, Weight, Length in other units on web without getting into any sites, Access this feature in a single click",
+    "code_snippets": [
+      "javascript:(function(){window.location='https://www.google.com/search?q=Unit%20converter'})()"
+    ]
+  },
+  {
+    "id": "text-anchors",
+    "title": "Text Anchors ⚓",
+    "description": "A hidden feature used by Search Engine to highlight & direct the users to a specific part of the Page which is related to their query, While using this feature, You should be at the webpage & the text to be anchored should be copied before clicking it <br> This will be useful when you need to hyperlink an exact part of the website to your friend, After clicking the bookmarklet, you can copy & share the new link to friend, It will highlight the text in the page which was provided by you",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter the text to be anchored (maximum 10 words):  \");(function(){window.location=document.URL+'#:~:text='+input})()"
+    ]
+  },
+  {
+    "id": "enable-right-click",
+    "title": "Enable Right Click 😉",
+    "description": "Some websites may block you from Right Click & using Context Menu aka Right click menu, But we can enable it again by using this simple Bookmarklet",
+    "code_snippets": [
+      "javascript:(function(){var d=document;d.onmousedown=null;d.onmouseup=null;d.oncontextmenu=null})()"
+    ]
+  },
+  {
+    "id": "birthday-moon-phase-lunaf",
+    "title": "Birthday Moon Phase 🌒 (Lunaf)",
+    "description": "If you are eager to see how the Moon looked when you were born, Check this out. You can use both of them, Second one has moon images of any date<br>Credits: [Lunaf](https://lunaf.com/lunar-calendar/) & [MoonPhase](https://phasesmoon.com/)",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter date(YYYY/MM/DD only works):  \");(function(){window.location='https://lunaf.com/lunar-calendar/'+input})()"
+    ]
+  },
+  {
+    "id": "birthday-moon-phase-moonphase",
+    "title": "Birthday Moon Phase 🌒 (MoonPhase)",
+    "description": "If you are eager to see how the Moon looked when you were born, Check this out. You can use both of them, Second one has moon images of any date<br>Credits: [Lunaf](https://lunaf.com/lunar-calendar/) & [MoonPhase](https://phasesmoon.com/)",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter date(eg: 3March1978) without spaces:  \");(function(){window.location='https://phasesmoon.com/moonday'+input+'.html'})()"
+    ]
+  },
+  {
+    "id": "google-search-images",
+    "title": "Google Search Handy Shortcuts⚡: Search Images",
+    "description": "Web Surfing can sometime be frustating if we want to click & navigate through many Tabs, Here are some handy shortcuts to directly get what we want",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter the Query : \");window.location='https://www.google.com/search?q='+input+'&tbm=isch'"
+    ]
+  },
+  {
+    "id": "google-search-images-creative-commons",
+    "title": "Google Search Handy Shortcuts⚡: Search Images with Creative Commons Licence",
+    "description": "Web Surfing can sometime be frustating if we want to click & navigate through many Tabs, Here are some handy shortcuts to directly get what we want",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter the Query : \");window.location='https://www.google.com/search?q='+input+'&tbm=isch&tbs=il:cl'"
+    ]
+  },
+  {
+    "id": "google-search-transparent-images",
+    "title": "Google Search Handy Shortcuts⚡: Search Transparent Images",
+    "description": "Web Surfing can sometime be frustating if we want to click & navigate through many Tabs, Here are some handy shortcuts to directly get what we want",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter the Query : \");window.location='https://www.google.com/search?q='+input+'tbm=isch&tbs=ic:trans'"
+    ]
+  },
+  {
+    "id": "google-search-direct-video",
+    "title": "Google Search Handy Shortcuts⚡: Direct Video Search",
+    "description": "Web Surfing can sometime be frustating if we want to click & navigate through many Tabs, Here are some handy shortcuts to directly get what we want",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter the Query : \");window.location='https://www.google.com/search?q='+input+'tbm=vid'"
+    ]
+  },
+  {
+    "id": "developers-search-youcode",
+    "title": "Developers' Search (YouCode)⚡",
+    "description": "Code Snippet for Direct Getting results tailored for a Dev, like Code snippets, Tutorials, Articles etc.. :",
+    "code_snippets": [
+      "javascript: const input = prompt(\"Enter Query: \");url=\"https://you.com/search?q=%22+input;window.open(url,%20%27_blank%27).focus();"
+    ]
+  },
+  {
+    "id": "tech-stack-lookup-builtwith",
+    "title": "Tech Stack Lookup (builtwith) ⚡",
+    "description": "Code Snippet for Looking up the tech Stack for any website :",
+    "code_snippets": [
+      "javascript:url=\"https://builtwith.com/?%22+document.URL;window.open(url,%20%27_blank%27).focus();"
+    ]
+  },
+  {
+    "id": "html-preview-by-github",
+    "title": "HTML Preview by [Github](https://htmlpreview.github.io/)⚡",
+    "description": "Note: You have to upload HTML files to github and currently at the page where HTML file is located.\n\nCode Snippet for previewing HTML pages directly from Github :",
+    "code_snippets": [
+      "javascript:url=\"https://htmlpreview.github.io/?%22+document.URL;window.open(url,%20%27_blank%27).focus();"
+    ]
+  },
+  {
+    "id": "download-all-images",
+    "title": "Download all images from any site in a single click",
+    "description": "",
+    "code_snippets": [
+      "javascript:;(function() {var images = [].slice.call(document.querySelectorAll('img'));try {images.forEach(function(img){downloadImage(img)})} catch (e) {alert('Download failed.');console.log('Download failed.', e)}function downloadImage(img) {var link = document.createElement('a');link.setAttribute('href', img.src);link.setAttribute('download', '');link.click()}}).call(window);"
+    ]
+  },
+  {
+    "id": "share-url-to-whatsapp",
+    "title": "Share current Tab's URL to Whatsapp⚡",
+    "description": "",
+    "code_snippets": [
+      "javascript:url=\"https://wa.me/?text=%22+document.URL;window.open(url,%20%27_blank%27).focus();"
+    ]
+  },
+  {
+    "id": "search-specific-filetype",
+    "title": "Search for a specific filetype 🔎",
+    "description": "",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Enter Query : \"); const type = prompt(\"Extension type\"); window.location='https://www.google.com/search?q=%27+input+%27%20ext%3A%27+type"
+    ]
+  },
+  {
+    "id": "find-free-vector-icon-iconfinder",
+    "title": "Find a free vector icon superfast (using Iconfinder) ✨",
+    "description": "",
+    "code_snippets": [
+      "javascript:const input = prompt(\"Search in IconFinder : \");(function(){window.location='https://www.iconfinder.com/search?q=%27+input+%27&price=free%27})()"
+    ]
+  }
+]
